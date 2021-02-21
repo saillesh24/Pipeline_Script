@@ -1,0 +1,1 @@
+echo "SonarQube running for STA : %date% : %time% "

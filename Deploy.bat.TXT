@@ -1,0 +1,1 @@
+echo "Deploying Job on Server : %date% : %time% "
