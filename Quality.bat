@@ -1,1 +1,1 @@
-echo "SonarQube running for STA : %date% : %time% "
+echo "SonarQube running for STA, Quality check : %date% : %time% "
