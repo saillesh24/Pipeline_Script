@@ -1,1 +1,1 @@
-echo "Deploying Job on Server : %date% : %time% "
+echo "Deploying Code Built on Server : %date% : %time% "
